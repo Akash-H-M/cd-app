@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoApplicationController {
   
 	
-	@RequestMapping("/hello")  
+	@RequestMapping("/")  
 	public String hello()   
 	{  
 	return "My first java application";  
