@@ -1,4 +1,4 @@
-name: Deploy MAIN Shopify Theme
+name: sonar scan 
 
 on:
   push:
